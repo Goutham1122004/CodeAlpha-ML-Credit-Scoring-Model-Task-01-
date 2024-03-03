@@ -1,13 +1,21 @@
-# Predict-Credit-Scoring<br>
-Develop a credit scoring model to predict the<br>
-creditworthiness of individuals based on historical<br>
-financial data. Utilize classification algorithms and<br>
-assess the model's accuracy.<br>
-<br>
-In this notebook using linear classifiers,such as Logistic Regression,and support vector machines(SVMS)<br>
-,and Non-linear classifiers such Random forest and K-nearest neighbors KNN,to potentially improve classification accuracy.<br>
-<br>
-Model Logistic Regression with accuracy  69.6% <br>
-Model SVM with accuracy  93.5%<br>
-Model KNN with accuracy   89.7%<br>
-Model Random Forest with accuracy   98%<br>
+
+## Overview
+This repository contains a credit scoring model developed to predict the creditworthiness of individuals based on their historical financial data. Various classification algorithms including Logistic Regression, Support Vector Machines (SVM), K-Nearest Neighbors (KNN), and Random Forest are implemented and their accuracies are assessed.
+
+
+
+## Usage
+To use the credit scoring model, follow these steps:
+
+1. Ensure you have Python installed on your machine.
+2. Open the Jupyter notebook `credit_scoring_model.ipynb`.
+3. Follow the instructions provided in the notebook to load the dataset, preprocess the data, train the classification models, and assess their accuracies.
+4. Experiment with different algorithms and parameters to optimize the model performance.
+
+## Results
+The accuracies of different classification models are as follows:
+- Logistic Regression: 69.6%
+- Support Vector Machine (SVM): 93.5%
+- K-Nearest Neighbors (KNN): 89.7%
+- Random Forest: 98%
+
